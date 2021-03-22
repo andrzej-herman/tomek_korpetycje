@@ -7,7 +7,7 @@ export const filter = (list, word) => {
   return result;
 };
 
-const collatz = () => {
+export const collatz = () => {
   let max = 0;
   let number = 0;
   let winner = 0;

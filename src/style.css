@@ -1,0 +1,9 @@
+.jumbo {
+  margin-top: 20px;
+}
+
+.catalog {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
